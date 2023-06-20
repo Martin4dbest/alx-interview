@@ -1,5 +1,5 @@
 #!/usr/bin/python5
-"""Island Perimeter - ALX Interview"""
+"""Project: Island Perimeter - ALX Interview"""
 
 
 def check_val(x):
